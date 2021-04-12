@@ -1,0 +1,14 @@
+.container {
+  width: 50%;
+  margin: auto;
+}
+
+.video {
+  text-align: center;
+  width: 30%;
+  margin: auto;
+}
+
+video {
+  width: 100%;
+}
